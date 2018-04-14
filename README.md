@@ -1,0 +1,2 @@
+# hrights
+human rights magazine
