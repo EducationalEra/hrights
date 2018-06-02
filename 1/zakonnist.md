@@ -3,6 +3,10 @@
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/8bUL_TLIvZk?rel=0" allowfullscreen></iframe>
 </div>
 
+Проаналізуйте абзац перший пункту 40 розділу VI в редакції Закону № 1789-VIII від 20.12.2016 [Бюджетному кодексу України](http://zakon5.rada.gov.ua/laws/show/2456-17/print1509867055307230)
+
+> 40. Установити, що під час здійснення повноважень з контролю за дотриманням бюджетного законодавства в частині моніторингу пенсій, допомог, пільг, субсидій, інших соціальних виплат Міністерство фінансів України має право на безоплатне отримання інформації, що містить банківську таємницю, персональні дані, та на доступ до автоматизованих інформаційних і довідкових систем, реєстрів та банків даних, держателем (адміністратором) яких є державні органи або органи місцевого самоврядування.[^1]
+
 ###Список рішень використаних у відео:
 * [«Sunday Times проти Сполученого Королівства» заява №6538/74, рішення від 26.04.1979](http://hudoc.echr.coe.int/eng?i=001-57584)
 * [«Frizen проти Росії» заява №58254/00, рішення від 24.03.2005](http://hudoc.echr.coe.int/eng?i=001-68614)
@@ -12,19 +16,31 @@
 * [«Тросін проти України» заява №39758/05, рішення від 23.02.2012](http://hudoc.echr.coe.int/eng?i=001-109197)
 * [«Сєрков проти України» заява №39766/05, рішення від 7.07.2011](http://hudoc.echr.coe.int/eng?i=001-105536)
 
-<div class="card" style="width: 18rem;">
-  <img class="card-img-top" src="../img/hr-course1.jpg" alt="Card image cap">
-  <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+
+<h3>Безкоштовні онлайн-курси:
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+      <div class="card">
+        <img src="../img/hr-course1.jpg" alt="Human Rights basic" style="width:100%">
+        <div class="card-container">
+          <h4><b>Європейський механізм захисту прав людини. Частина 1</b></h4> 
+          <p>Курс знайомить із темою захисту прав людини крізь призму основних положень Конвенції про захист прав людини та основоположних свобод (Конвенції) та практики Європейського суду з прав людини (ЄСПЛ). Для широкого кола слухачів.</p> 
+          <a class="btn btn-primary" href="https://courses.ed-era.com/courses/course-v1:EdEra+HR101+hr101/about" role="button">Реєстрація</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-4">
+      <div class="card">
+        <img src="../img/hr-course2.jpg" alt="Human Rights advanced" style="width:100%">
+        <div class="card-container">
+          <h4><b>Європейський механізм захисту прав людини. Частина 2</b></h4> 
+          <p>Продовження курсу «Європейський механізм захисту прав людини». Для тих, хто прагне поглибити отримані знання й навчитися аналізувати практику Суду відповідно до статей Конвенції.</p> 
+          <a class="btn btn-primary" href="https://courses.ed-era.com/courses/course-v1:EdEra+HR201+hr201/about" role="button">Реєстрація</a>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
-<div class="card" style="width: 18rem;">
-  <img class="card-img-top" src="../img/hr-course2.jpg" alt="Card image cap">
-  <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
-  </div>
-</div>
+
+<p><br/></p>
