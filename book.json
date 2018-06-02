@@ -31,9 +31,6 @@
             }
         }
     },
-    "variables": {
-      "basePath": "https://edera.gitbooks.io/human-rights/"
-    },
     "links": {
         "gitbook": false,
         "home": null,
