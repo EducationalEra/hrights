@@ -60,7 +60,7 @@
 * Олександр Волков проти України
 * [Назаренко проти Росії](http://www.consultant.ru/cons/cgi/online.cgi?req=doc&base=ARB002&n=436103#012122535396286205)
 
-<h3>Безкоштовні онлайн-курси:
+<h3>Безкоштовні онлайн-курси:</h3>
 <div class="container">
   <div class="row">
     <div class="col-sm-4">
