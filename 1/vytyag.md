@@ -5,3 +5,16 @@
 <blockquote>
 	<p><em>Повний текст рішення: <a href="http://www.lrkt.lt/en/court-acts/search/170/ta928/content">http://www.lrkt.lt/en/court-acts/search/170/ta928/content</a></em></p>
 </blockquote>
+
+
+<h3>Слідкуйте за новинами журналу:</h3>
+<div id="mc_embed_signup">
+    <div id="mc-embedded-subscribe-form" action="//ed-era.us11.list-manage.com/subscribe/post?u=8866dd2b60d24631dfb05130e&amp;id=7c924ccd0e" method="post" name="mc-embedded-subscribe-form" novalidate="novalidate" target="_blank" class="validate">
+    	<div id="mc_embed_signup_scroll col-lg-12">
+    		<div class="mc-field-group input-group col-lg-12">
+				<input id="mce-EMAIL" name="EMAIL" type="email" value="" class="form-control required email" aria-required="true" placeholder="example@gmail.com">
+				<button id="mc-embedded-subscribe" name="subscribe" type="submit" style="margin-top: 10px;" class="btn btn-primary">Слідкувати за новинами</button>
+			</div>
+		</div>
+	</div>
+</div>

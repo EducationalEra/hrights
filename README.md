@@ -10,7 +10,7 @@
     <div role="tabpanel" class="tab-pane active" id="home"><h3>Випуск №1</h3>
 		<ul type="disc">
 			<li><a href="./1/main-review.html">Огляд рішень щодо України, які були постановлені з початку року</a></li>
-			<li><a href="./1/others-counties.html">Рішення щодо інших держав</a></li>
+			<li><a href="./1/others-countries.html">Рішення щодо інших держав</a></li>
 			<li><a href="./1/zakonnist.html">Що таке принцип законності і як його застосовувати?</a></li>
 			<li><a href="./1/pereklady.html">Переклад рішень</a>
 				<ul>
@@ -88,7 +88,7 @@
 <div class="col-sm-auto">
 	<table>
 	    <tr style="border: 0px">
-	      <td class="align-middle" style="border: 0px"><img src="./img/Canada.png" alt="Canada" /></td>
+	      <td class="align-middle" style="border: 0px"><img src="./img/goc-logo.jpg" alt="Canada" /></td>
 	    </tr>
 	</table>    		
 </div>
@@ -98,7 +98,7 @@
   <div class="row">
     <div class="col-sm-4">
       <div class="card">
-        <img src="../img/hr-course1.jpg" alt="Human Rights basic" style="width:100%">
+        <img src="./img/hr-course1.jpg" alt="Human Rights basic" style="width:100%">
         <div class="card-container">
           <h5><b>Європейський механізм захисту прав людини. Частина 1</b></h5> 
           <p style="font-weight: 400; font-size: 20px;">Курс знайомить із темою захисту прав людини крізь призму основних положень Конвенції про захист прав людини та основоположних свобод (Конвенції) та практики Європейського суду з прав людини (ЄСПЛ). Для широкого кола слухачів.</p> 
@@ -108,7 +108,7 @@
     </div>
     <div class="col-sm-4">
       <div class="card">
-        <img src="../img/hr-course2.jpg" alt="Human Rights advanced" style="width:100%">
+        <img src="./img/hr-course2.jpg" alt="Human Rights advanced" style="width:100%">
         <div class="card-container">
           <h5><b>Європейський механізм захисту прав людини. Частина 2</b></h5> 
           <p style="font-weight: 400; font-size: 20px;">Продовження курсу «Європейський механізм захисту прав людини». Для тих, хто прагне поглибити отримані знання й навчитися аналізувати практику Суду відповідно до статей Конвенції.</p> 
@@ -118,5 +118,26 @@
     </div>
   </div>
 </div>
+
+<!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
+	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="https://ed-era.us11.list-manage.com/subscribe/post?u=8866dd2b60d24631dfb05130e&amp;id=7c924ccd0e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<label for="mce-EMAIL">Підпишіться на нові випуски інтерактивного журналу «Європейський механізм захисту прав людини»</label>
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_8866dd2b60d24631dfb05130e_7c924ccd0e" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
 
 <p><br/></p>
