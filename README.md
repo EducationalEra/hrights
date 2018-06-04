@@ -9,10 +9,31 @@
   <div class="tab-content">
     <div role="tabpanel" class="tab-pane active" id="home"><h3>Випуск №1</h3>
 		<ul type="disc">
-			<li><a href="#">Рішення Європейського суду з прав людини проти України</a></li>
-			<li><a href="#">2проти України</a></li>
-			<li><a href="#">Ключова тема</a></li>
-			<li><a href="#">2проти України</a></li>
+				<li><a href="./1/main-review.html">Огляд рішень щодо України, які були постановлені з початку року</a></li>
+				<li><a href="./1/others-counties.html">Рішення щодо інших держав</a></li>
+				<li><a href="./1/zakonnist.html">Що таке принцип законності і як його застосовувати?</a></li>
+				<li><a href="./1/pereklady.html">Переклад рішень</a>
+					<ul>
+						<li><a href="./1/navalnyi.html">«Навальний та Офіцеров проти Росії»</a>
+							<ul>
+								<li><a href="./1/navalnyi-fakty.html">Факти. Обставини справи</a></li>
+								<li><a href="./1/navalnyi-vidpovidne-zakonodavstvo.html">Факти. Відповідне національне законодавство та практика</a></li>
+								<li><a href="./1/navalnyi-pravo.html">Право</a></li>
+								<li><a href="./1/navalnyi-porushennya.html">Порушення</a></li>
+								<li><a href="./1/navalnyi-na-cyh-pidstavah.html">На цих підставах Суд:</a></li>
+								<li><a href="./1/navalnyi-okrema-dumka.html">Спільна окрема думка часткової незгоди суддів Ніколау, Келлера та Дєдова</a></li>
+							</ul>
+						</li>
+						<li><a href="./1/zubac.html">«Zubac проти Хорватії»</a>
+							<ul>
+								<li><a href="./1/zubac-fakty.html">Факти</a></li>
+								<li><a href="./1/zubac-vidpovidne-zakonodavstvo.html">Факти. Відповідне національне законодавство та практика</a></li>
+								<li><a href="./1/zubac-pravo.html">Право</a></li>
+							</ul>
+						</li>
+						<li><a href="./1/vytyag.html">Переклад витягу з рішення Конституційного Суду Республіки Литва</a></li>
+					</ul>
+				</li>
 		</ul>
 	</div>
   </div>
