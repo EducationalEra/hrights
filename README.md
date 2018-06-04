@@ -53,21 +53,21 @@
 
 ###Організації-розробники
 
-<div class="col-md-auto">
+<div class="col-sm-auto">
 	<table>
 	    <tr style="border: 0px">
-	      <td class="align-middle" style="border: 0px"><a href="https://www.osce.org/uk/project-coordinator-in-ukraine/" target="_blank"><img src="./img/OSCE_Ukraine_Logo.png" style="height:55px;" alt="Logo OSCE_Ukraine" /></a></td>
-	      <td class="align-middle" style="border: 0px"><a href="https://www.ed-era.com/" target="_blank"><img src="./img/edera_logo.png" style="height:75px;" alt="Logo EdEra" /></a></td>
+	      <td class="align-middle" style="border: 0px"><a href="https://www.osce.org/uk/project-coordinator-in-ukraine/" target="_blank"><img src="./img/OSCE_Ukraine_Logo.png" alt="Logo OSCE_Ukraine" /></a></td>
+	      <td class="align-middle" style="border: 0px"><a href="https://www.ed-era.com/" target="_blank"><img src="./img/edera_logo.png" alt="Logo EdEra" /></a></td>
 	    </tr>
 	</table>    		
 	</div>
 </div>
 
 ###За підтримки
-<div class="col-md-auto">
+<div class="col-sm-auto">
 	<table>
 	    <tr style="border: 0px">
-	      <td class="align-middle" style="border: 0px"><img src="./img/Canada.png" style="height:55px;" alt="Canada" /></td>
+	      <td class="align-middle" style="border: 0px"><img src="./img/Canada.png" alt="Canada" /></td>
 	    </tr>
 	</table>    		
 </div>

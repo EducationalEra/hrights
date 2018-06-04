@@ -11,6 +11,87 @@ default – "White"
 .book.color-theme-1 – "Sepia"
 */
 
+
+/* Banner */
+.banner {
+  padding: 10px 30px;
+  background-color: #EDEDED;
+ }
+
+.course {
+  background-color: #EDEDED;
+  text-align: center;
+  line-height: 130% !important;
+  font-size: 1.15em !important;
+  border-bottom: 0 !important;
+}
+
+.course-description {
+  text-align: center;
+  line-height: 130% !important;
+  margin-bottom: 30px !important;
+  background-color: #EDEDED;
+}
+
+.button-wrapper {
+  margin-top: -20px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.registration-button {
+  margin-bottom: 10px;
+  background-color: #145482 !important;
+  color: white !important;
+  padding: 10px 20px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.book.color-theme-1 .banner {
+  border: 0.15em solid #704214;
+  background-color: #f3eaca;
+  color: #704313;
+}
+
+.book.color-theme-1 .course {
+  background-color: #f3eac9;
+  color: #704313;
+}
+
+.book.color-theme-1 .course-description {
+  background-color: #f3eaca;
+  color: #704313;
+}
+
+.book.color-theme-1 .registration-button {
+  color: #f3eac9!important;
+  background-color: #704412!important;  
+}
+
+
+.book.color-theme-2 .banner {
+  background-color: #2C3043;
+}
+
+
+.book.color-theme-2 .course {
+  background-color: #2d3144;
+}
+
+.book.color-theme-2 .course-description {
+  background-color: #2d3144;
+}
+
+.book.color-theme-2 .registration-button {
+    color: #ffffff;
+    border: solid 0.15em #fff;
+    background-color: #2d3144!important;
+}
+
+
 blockquote {
   margin-bottom: 0.85em !important;
 }

@@ -7,10 +7,15 @@
 * [Рішення щодо інших держав](1/others-counties.md)
 * [Що таке принцип законності і як його застосовувати?](1/zakonnist.md)
 * [Переклад рішень]()
-	* [«Навальний та Офіцеров проти Росії»](navalnyi.md)
-		* [Факти](1/navalnyi-fakty.md)
+	* [«Навальний та Офіцеров проти Росії»](1/navalnyi.md)
+		* [Факти. Обставини справи](1/navalnyi-fakty.md)
+		* [Факти. Відповідне національне законодавство та практика](1/navalnyi-vidpovidne-zakonodavstvo.md)
 		* [Право](1/navalnyi-pravo.md)
-		* [ОБ&rsquo;ЄДНАННЯ ЗАЯВ](1/navalnyi-porushennya.md)
-
-
-
+		* [Порушення](1/navalnyi-porushennya.md)
+		* [На цих підставах Суд:](1/navalnyi-na-cyh-pidstavah.md)
+		* [Спільна окрема думка часткової незгоди суддів Ніколау, Келлера та Дєдова](1/navalnyi-okrema-dumka.md)
+	* [«Zubac проти Хорватії»](1/zubac.md)
+		* [Факти](1/zubac-fakty.md)
+		* [Факти. Відповідне національне законодавство та практика](1/zubac-vidpovidne-zakonodavstvo.md)
+		* [Право](1/zubac-pravo.md)
+	* [Переклад витягу з рішення Конституційного Суду Республіки Литва](1/vytyag.md)
