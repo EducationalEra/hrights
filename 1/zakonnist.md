@@ -65,7 +65,7 @@
   <div class="row">
     <div class="col-sm-4">
       <div class="card">
-        <img src="./img/hr-course1.jpg" alt="Human Rights basic" style="width:100%">
+        <img src="../img/hr-course1.jpg" alt="Human Rights basic" style="width:100%">
         <div class="card-container">
           <h5><b>Європейський механізм захисту прав людини. Частина 1</b></h5> 
           <p style="font-weight: 400; font-size: 14px;">Курс знайомить із темою захисту прав людини крізь призму основних положень Конвенції про захист прав людини та основоположних свобод (Конвенції) та практики Європейського суду з прав людини (ЄСПЛ). Для широкого кола слухачів.</p> 
@@ -75,7 +75,7 @@
     </div>
     <div class="col-sm-4">
       <div class="card">
-        <img src="./img/hr-course2.jpg" alt="Human Rights advanced" style="width:100%">
+        <img src="../img/hr-course2.jpg" alt="Human Rights advanced" style="width:100%">
         <div class="card-container">
           <h5><b>Європейський механізм захисту прав людини. Частина 2</b></h5> 
           <p style="font-weight: 400; font-size: 14px;">Продовження курсу «Європейський механізм захисту прав людини». Для тих, хто прагне поглибити отримані знання й навчитися аналізувати практику Суду відповідно до статей Конвенції.</p> 
