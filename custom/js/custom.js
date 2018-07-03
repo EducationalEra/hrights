@@ -7,6 +7,8 @@ $(document).ready(function() {
     $lastLink = $(".custom-link:last");
     href = $lastLink.prop("href");
     $lastLink.prop("href", href);
+    $("a").filter(":contains('Human rights')").remove();
+
   }
   init();
   require(["gitbook"], function (gitbook) {
