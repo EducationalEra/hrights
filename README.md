@@ -4,6 +4,7 @@
   <!-- Nav tabs -->
   <ul class="nav nav-tabs" role="tablist">
     <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab">Випуск №1</a></li>
+    <li role="presentation"><a href="#menu2" aria-controls="menu2" role="tab" data-toggle="tab">Випуск №2</a></li>
   </ul>
   <!-- Tab panes -->
   <div class="tab-content">
@@ -32,6 +33,35 @@
 						</ul>
 					</li>
 					<li><a href="./1/vytyag.html">Переклад витягу з рішення Конституційного Суду Республіки Литва</a></li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+	<div role="tabpanel" class="tab-pane" id="menu2"><h3>Випуск №2</h3>
+		<ul type="disc">
+			<li><a href="./2/main-review.html">Огляд рішень щодо України, які були постановлені з початку року</a></li>
+			<li><a href="./2/others-countries.html">Рішення щодо інших держав</a></li>
+			<li><a href="./2/legitymna-meta.html">Відеолекція: «Легітимна мета»</a></li>
+			<li><a href="./2/neobhidnist-u-demokratychnomu-susnilstvit.html">Відеолекція: «Необхідність у демократичному суспільстві»</a></li>
+			<li><a href="./2/pereklady.html">Переклад рішень</a>
+				<ul>
+					<li><a href="./2/fernandes.html">«Lopes de Sousa Fernandes проти Португалії»</a>
+						<ul>
+							<li><a href="./2/fernandes-fakty.html">Факти. Обставини справи</a></li>
+							<li><a href="./2/fernandes-vidpovidne-zakonodavstvo.html">Факти. Відповідне національне законодавство та практика</a></li>
+							<li><a href="./2/fernandes-pravo.html">Право</a></li>
+							<li><a href="./2/fernandes-na-cyh-pidstavah.html">На цих підставах Суд:</a></li>
+						</ul>
+					</li>
+					<li><a href="./2/surikov.html">«Суріков проти України»</a>
+						<ul>
+							<li><a href="./2/surikov-fakty.html">Факти</a></li>
+							<li><a href="./2/surikov-vidpovidne-zakonodavstvo.html">Факти. Відповідне національне законодавство та практика</a></li>
+							<li><a href="./2/surikov-pravo.html">Право</a></li>
+						</ul>
+					</li>
+					<li><a href="./2/holodov-uhvala.html">«Холодов проти України»</a></li>
+					<li><a href="./2/germany-court.html">Переклад витягу з рішення Конституційного суду Німеччини</a></li>
 				</ul>
 			</li>
 		</ul>

@@ -1,15 +1,11 @@
-4
-===
-
 #Справа «Lopes de Sousa Fernandes проти Португалії» (заява № 56080/13)
 ##Рішення від 19 грудня 2017 року
 
 <div class="eoz-wrap">
 	<div class="eoz-text">
-		<p style="margin-bottom: 0;">Завантажте <a href="./Attachment_4221281000000625005_CASE_OF_NAVALNYY_AND_OFITSEROV_v.RUSSIA_ukr.pdf" target="_blank">повний текст</a> рішення «Навальний та Офіцеров проти Росії»</p>
+		<p style="margin-bottom: 0;">Завантажте <a href="./CASE_OF_LOPES_DE_SOUSA_FERNANDES_v._PORTUGAL_ukr.pdf" target="_blank">повний текст</a> рішення «Lopes de Sousa Fernandes проти Португалії»</p>
 	</div>
 </div>
-
 
 
 <p>З ЦИХ ПІДСТАВ СУД</p>

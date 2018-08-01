@@ -2,7 +2,7 @@
 
 <div class="eoz-wrap">
 	<div class="eoz-text">
-		<p style="margin-bottom: 0;">Завантажте <a href="./Attachment_4221281000000625005_CASE_OF_NAVALNYY_AND_OFITSEROV_v.RUSSIA_ukr.pdf" target="_blank">повний текст</a> рішення «Навальний та Офіцеров проти Росії»</p>
+		<p style="margin-bottom: 0;">Завантажте <a href="./Case_Germany_court.pdf" target="_blank">витяг</a> Конституційного суду Німеччини</p>
 	</div>
 </div>
 

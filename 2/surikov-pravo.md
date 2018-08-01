@@ -1,9 +1,9 @@
-#Справа «Zubac проти Хорватії» (заява № 40160/12)
-##Рішення від 5 квітня 2018 року
+#Справа «Суріков проти України» (заява № 42788/06)
+##Рішення від 26 січня 2017
 
 <div class="eoz-wrap">
 	<div class="eoz-text">
-		<p style="margin-bottom: 0;">Завантажте <a href="./Velyka_Palata.pdf" target="_blank">повний текст</a> рішення «Zubac проти Хорватії»</p>
+		<p style="margin-bottom: 0;">Завантажте <a href="./CASE-OF-SURIKOV-v.-UKRAINE.pdf" target="_blank">повний текст</a> рішення «Суріков проти України»</p>
 	</div>
 </div>
 
@@ -169,10 +169,20 @@
 </ol>
 
 <p>Вчинено англійською мовою і повідомлено письмово 26 січня 2017 року відповідно до пунктів 2 та 3 правила 77 Реґламенту Суду</p>
-<p>Мілан БлажкоАнгеліка Ньюсбергер<br />Заступник СекретаряГолова</p>
+<table style="border:none;">
+	<tr style="border:none; background-color: none!important;">
+		<td style="border:none;">Мілан Блажко</td>
+		<td style="border:none;">Ангеліка Ньюсбергер</td>
+	</tr>
+	<tr style="border:none; background-color: none!important;">
+		<td style="border:none;">Секретар</td>
+		<td style="border:none;">Голова</td>
+	</tr>
+</table>
 <p>Відповідно до пункту 2 статті 45 Конвенції та пункту 2 Правила 74 Регламенту Суду окрема думка суддів Олері та Мітса додана до цього рішення.</p>
 <p style="text-align: right;">A.N.<br />M.B.</p>
 <hr/>
+
 
 <p>СПІЛЬНА ОКРЕМА ДУМКА СУДДІВ ОЛЕРІ ТА МІТСА</p>
 <ol>
