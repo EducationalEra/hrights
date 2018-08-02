@@ -1,6 +1,6 @@
 #Легітимна мета
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/jHDoC2alv7o?rel=0" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/-0ovRdnekS8?rel=0" allowfullscreen></iframe>
 </div>
 
 <!-- Проаналізуйте абзац перший пункту 40 розділу VI в редакції Закону № 1789-VIII від 20.12.2016 [Бюджетному кодексу України](http://zakon5.rada.gov.ua/laws/show/2456-17/print1509867055307230)
