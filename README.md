@@ -12,7 +12,7 @@
 		<ul type="disc">
 			<li><a href="./1/main-review.html">Огляд рішень щодо України, які були постановлені з початку року</a></li>
 			<li><a href="./1/others-countries.html">Рішення щодо інших держав</a></li>
-			<li><a href="./1/zakonnist.html">Відеолекція: «Принцип законності»</a></li>
+			<li style="list-style-type: none; margin-left: -20px;"><img src="./img/video-solid.svg" height="15px;" style="margin-right: 4px;"><a href="1/zakonnist.html" style="font-weight: 600; text-decoration: underline;">Відеолекція: «Принцип законності»</a></li>
 			<li><a href="./1/pereklady.html">Переклад рішень</a>
 				<ul>
 					<li><a href="./1/navalnyi.html">«Навальний та Офіцеров проти Росії»</a>
@@ -41,8 +41,8 @@
 		<ul type="disc">
 			<li><a href="./2/main-review.html">Огляд рішень щодо України, які були постановлені з початку року</a></li>
 			<li><a href="./2/others-countries.html">Рішення щодо інших держав</a></li>
-			<li><a href="./2/legitymna-meta.html">Відеолекція: «Легітимна мета»</a></li>
-			<li><a href="./2/neobhidnist-u-demokratychnomu-susnilstvit.html">Відеолекція: «Необхідність у демократичному суспільстві»</a></li>
+			<li style="list-style-type: none; margin-left: -20px;"><img src="./img/video-solid.svg" height="15px;" style="margin-right: 4px;"><a href="./2/legitymna-meta.html" style="font-weight: 600; text-decoration: underline;">Відеолекція: «Легітимна мета»</a></li>
+			<li style="list-style-type: none; margin-left: -20px;"><img src="./img/video-solid.svg" height="15px;" style="margin-right: 4px;"><a href="./2/neobhidnist-u-demokratychnomu-susnilstvit.html" style="font-weight: 600; text-decoration: underline;">Відеолекція: «Необхідність у демократичному суспільстві»</a></li>
 			<li><a href="./2/pereklady.html">Переклад рішень</a>
 				<ul>
 					<li><a href="./2/fernandes.html">«Lopes de Sousa Fernandes проти Португалії»</a>
