@@ -396,6 +396,13 @@
 			<li><a href="../3/main-review.html">Огляд рішень щодо України, які були постановлені з початку року</a></li>
 			<li><a href="../3/others-countries.html">Рішення щодо інших держав</li>
 			<li style="list-style-type: none; margin-left: -20px;"><img src="../img/video-solid.svg" height="15px;" style="margin-right: 4px;"><a href="../3/maino.html">Відеолекція: «Право на мирне володіння майном»</a></li>
+			<li><a href="(../3/posibnyk.html)">Посібник. Вступ</a>
+				<ul>
+					<li><a href="(../3/posibnyk-pryncyp.html)">I. Принцип територіальності та виключення з нього</a></li>
+					<li><a href="(../3/posibnyk-delegeta.html)">II. Делегування повноважень держави або спільне здійснення таких повноважень разом із іншою державою</a></li>
+					<li><a href="(../3/posibnyk-casses.html)">III. Список використаних рішень</a></li>
+				</ul>
+			</li>
 			<li>Переклад рішення.	
 				<ul>
 					<li><a href="../3/consorcium.html">«Промислово-фінансовий консорціум «Інвестиційно-металургійний союз» проти України»</a></li>

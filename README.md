@@ -5,6 +5,7 @@
   <ul class="nav nav-tabs" role="tablist">
     <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab">Випуск №1</a></li>
     <li role="presentation"><a href="#menu2" aria-controls="menu2" role="tab" data-toggle="tab">Випуск №2</a></li>
+    <li role="presentation"><a href="#menu3" aria-controls="menu2" role="tab" data-toggle="tab">Випуск №3</a></li>
   </ul>
   <!-- Tab panes -->
   <div class="tab-content">
@@ -67,6 +68,28 @@
 			</li>
 		</ul>
 	</div>
+	<div role="tabpanel" class="tab-pane" id="menu3"><h3>Випуск №3</h3>
+		<ul type="disc">
+			<li><a href="./3/main-review.html">Огляд рішень щодо України, які були постановлені з початку року</a></li>
+			<li><a href="./3/others-countries.html">Рішення щодо інших держав</li>
+			<li style="list-style-type: none; margin-left: -20px;"><img src="./img/video-solid.svg" height="15px;" style="margin-right: 4px;"><a href="./3/maino.html">Відеолекція: «Право на мирне володіння майном»</a></li>
+			<li><a href="(./3/posibnyk.html)">Посібник. Вступ</a>
+				<ul>
+					<li><a href="(./3/posibnyk-pryncyp.html)">I. Принцип територіальності та виключення з нього</a></li>
+					<li><a href="(./3/posibnyk-delegeta.html)">II. Делегування повноважень держави або спільне здійснення таких повноважень разом із іншою державою</a></li>
+					<li><a href="(./3/posibnyk-casses.html)">III. Список використаних рішень</a></li>
+				</ul>
+			</li>
+			<li>Переклад рішення.	
+				<ul>
+					<li><a href="./3/consorcium.html">«Промислово-фінансовий консорціум «Інвестиційно-металургійний союз» проти України»</a></li>
+					<li><a href="./3/consorcium-fakty.html">Факти. Обставини справи</a></li>
+					<li><a href="./3/consorcium-vidpovidne-zakonodavstvo.html">Відповідне національне законодавство та практика</a></li>
+					<li><a href="./3/consorcium-vidpovidne-pravo.html">Право</a></li>
+				</ul>
+			</li>
+		</ul>
+    </div>
   </div>
 </div>
 
