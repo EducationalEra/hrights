@@ -392,18 +392,20 @@
 		</ul>
 	</div>
 	<div role="tabpanel" class="tab-pane" id="menu3"><h3>Випуск №3</h3>
-		<p>Вже <b>29 жовтня</b> ми опублікуємо інші розділи, заповніть анкету та отримаєте сповіщення про публікацію.</p>
 		<ul type="disc">
-			<li>Огляд рішень щодо України, які були постановлені з початку року</li>
-			<li>Рішення щодо інших держав</li>
-			<li style="list-style-type: none; margin-left: -20px;"><img src="../img/video-solid.svg" height="15px;" style="margin-right: 4px;">Відеолекція: «Право на мирне володіння майном»</li>
-			<li>Переклад рішень
+			<li><a href="../3/main-review.html">Огляд рішень щодо України, які були постановлені з початку року</a></li>
+			<li><a href="../3/others-countries.html">Рішення щодо інших держав</li>
+			<li style="list-style-type: none; margin-left: -20px;"><img src="../img/video-solid.svg" height="15px;" style="margin-right: 4px;"><a href="../3/maino.html">Відеолекція: «Право на мирне володіння майном»</a></li>
+			<li>Переклад рішення.	
 				<ul>
-					<li>«Промислово-фінансовий консорціум «Інвестиційно-металургійний союз» проти України»</li>
+					<li><a href="../3/consorcium.html">«Промислово-фінансовий консорціум «Інвестиційно-металургійний союз» проти України»</a></li>
+					<li><a href="../3/consorcium-fakty.html">Факти. Обставини справи</a></li>
+					<li><a href="../3/consorcium-vidpovidne-zakonodavstvo.html">Відповідне національне законодавство та практика</a></li>
+					<li><a href="../3/consorcium-vidpovidne-pravo.html">Право</a></li>
 				</ul>
 			</li>
 		</ul>
-  </div>
+    </div>
 </div>
 
 ---
