@@ -6,6 +6,7 @@
     <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab">Випуск №1</a></li>
     <li role="presentation"><a href="#menu2" aria-controls="menu2" role="tab" data-toggle="tab">Випуск №2</a></li>
     <li role="presentation"><a href="#menu3" aria-controls="menu2" role="tab" data-toggle="tab">Випуск №3</a></li>
+	<li role="presentation"><a href="#menu4" aria-controls="menu2" role="tab" data-toggle="tab">Міжнародні форуми ЄСПЛ</a></li>
   </ul>
   <!-- Tab panes -->
   <div class="tab-content">
@@ -90,7 +91,14 @@
 			</li>
 		</ul>
     </div>
-  </div>
+	<div role="tabpanel" class="tab-pane" id="menu4"><h3>Міжнародні форуми ЄСПЛ</h3>
+		<ul type="disc">
+			<li><a href="https://courses.ed-era.com/asset-v1:EdEra+HR101+hr101+type@asset+block@III_forum.pdf" target="_blank">Посібник з відеолекціями «Міжнародний Форум III»</a></li>
+			<li><a href="https://courses.ed-era.com/asset-v1:EdEra+HR101+hr101+type@asset+block@IV_forum.pdf" target="_blank">Посібник з відеолекціями «Міжнародний Форум IV»»</a></li>
+			<li><a href="https://courses.ed-era.com/asset-v1:EdEra+HR101+hr101+type@asset+block@V_forum.pdf" target="_blank">Посібник з відеолекціями «Міжнародний Форум V»»</a></li>
+			<li><a href="https://courses.ed-era.com/asset-v1:EdEra+HR101+hr101+type@asset+block@VI_forum.pdf" target="_blank">Посібник з відеолекціями «Міжнародний Форум VI»»</a></li>
+		</ul>			
+    </div>
 </div>
 
 ---
