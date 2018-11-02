@@ -95,8 +95,8 @@
 		<ul type="disc">
 			<li><a href="https://courses.ed-era.com/asset-v1:EdEra+HR101+hr101+type@asset+block@III_forum.pdf" target="_blank">Посібник з відеолекціями «Міжнародний Форум III»</a></li>
 			<li><a href="https://courses.ed-era.com/asset-v1:EdEra+HR101+hr101+type@asset+block@IV_forum.pdf" target="_blank">Посібник з відеолекціями «Міжнародний Форум IV»»</a></li>
-			<li><a href="https://courses.ed-era.com/asset-v1:EdEra+HR101+hr101+type@asset+block@V_forum.pdf" target="_blank">Посібник з відеолекціями «Міжнародний Форум V»»</a></li>
-			<li><a href="https://courses.ed-era.com/asset-v1:EdEra+HR101+hr101+type@asset+block@VI_forum.pdf" target="_blank">Посібник з відеолекціями «Міжнародний Форум VI»»</a></li>
+			<li><a href="https://courses.ed-era.com/asset-v1:EdEra+HR101+hr101+type@asset+block@V-forum.pdf" target="_blank">Посібник з відеолекціями «Міжнародний Форум V»»</a></li>
+			<li><a href="https://courses.ed-era.com/asset-v1:EdEra+HR201+hr201+type@asset+block@VI-forum.pdf" target="_blank">Посібник з відеолекціями «Міжнародний Форум VI»»</a></li>
 		</ul>			
     </div>
 </div>
