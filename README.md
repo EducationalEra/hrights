@@ -6,6 +6,7 @@
     <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab">Випуск №1</a></li>
     <li role="presentation"><a href="#menu2" aria-controls="menu2" role="tab" data-toggle="tab">Випуск №2</a></li>
     <li role="presentation"><a href="#menu3" aria-controls="menu2" role="tab" data-toggle="tab">Випуск №3</a></li>
+	<li role="presentation"><a href="#menu4_" aria-controls="menu2" role="tab" data-toggle="tab">Випуск №4</a>
 	<li role="presentation"><a href="#menu4" aria-controls="menu2" role="tab" data-toggle="tab">Міжнародні форуми ЄСПЛ</a></li>
   </ul>
   <!-- Tab panes -->
@@ -87,6 +88,21 @@
 					<li><a href="./3/consorcium-fakty.html">Факти. Обставини справи</a></li>
 					<li><a href="./3/consorcium-vidpovidne-zakonodavstvo.html">Відповідне національне законодавство та практика</a></li>
 					<li><a href="./3/consorcium-vidpovidne-pravo.html">Право</a></li>
+				</ul>
+			</li>
+		</ul>
+    </div>
+	<div role="tabpanel" class="tab-pane" id="menu4_"><h3>Випуск №4</h3>
+		<ul type="disc">
+			<li><a href="./4/main-review.html">Огляд рішень щодо України, які були постановлені з початку року</a></li>
+			<li><a href="./4/others-countries.html">Рішення щодо інших держав</li>
+			<li style="list-style-type: none; margin-left: -20px;"><img src="./img/video-solid.svg" height="15px;" style="margin-right: 4px;"><a href="./4/maino.html">Відеолекція: «Умови втручання в право на мирне володіння майном»</a></li>
+			<li>Переклад рішення.
+				<ul>
+					<li><a href="./4/lazoriva.html">«Лазоріва проти України»</a></li>
+					<li><a href="./4/lazoriva-fakty.html">Факти. Обставини справи</a></li>
+					<li><a href="./4/lazoriva-vidpovidne-zakonodavstvo.html">Відповідне національне законодавство та практика</a></li>
+					<li><a href="./4/lazoriva-vidpovidne-pravo.html">Право</a></li>
 				</ul>
 			</li>
 		</ul>
