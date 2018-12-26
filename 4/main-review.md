@@ -473,7 +473,7 @@
 		<ul type="disc">
 			<li><a href="../3/main-review.html">Огляд рішень щодо України, які були постановлені з початку року</a></li>
 			<li><a href="../3/others-countries.html">Рішення щодо інших держав</li>
-			<li style="list-style-type: none; margin-left: -20px;"><img src="../img/video-solid.svg" height="15px;" style="margin-right: 4px;"><a href="../3/maino.html" style="font-weight: 600; >Відеолекція: «Право на мирне володіння майном»</a></li>
+			<li style="list-style-type: none; margin-left: -20px;"><img src="../img/video-solid.svg" height="15px;" style="margin-right: 4px;"><a href="../3/maino.html" style="font-weight: 600; text-decoration: underline;">Відеолекція: «Право на мирне володіння майном»</a></li>
 			<li><a href="(../3/posibnyk.html)">Посібник. Вступ</a>
 				<ul>
 					<li><a href="(../3/posibnyk-pryncyp.html)">I. Принцип територіальності та виключення з нього</a></li>
@@ -493,18 +493,17 @@
     </div>
 	<div role="tabpanel" class="tab-pane" id="menu4_"><h3>Випуск №4</h3>
 		<ul type="disc">
-			<li><a href="../4/main-review.html">Огляд рішень щодо України, які були постановлені з початку року</a></li>
-			<li><a href="../4/others-countries.html">Рішення щодо інших держав</li>
-			<li style="list-style-type: none; margin-left: -20px;"><img src="../img/video-solid.svg" height="15px;" style="margin-right: 4px;"><a href="./4/umovy-maino.html" style="font-weight: 600;>Відеолекція: «Умови втручання в право на мирне володіння майном»</a></li>
-			<!--<li>Переклад рішення.	
+			<li><a href="./4/main-review.html">Огляд рішень щодо України, які були постановлені з початку року</a></li>
+			<li><a href="./4/others-countries.html">Рішення щодо інших держав</li>
+			<li style="list-style-type: none; margin-left: -20px;"><img src="./img/video-solid.svg" height="15px;" style="margin-right: 4px;"><a href="./4/umovy-maino.html" style="font-weight: 600; text-decoration: underline;">Відеолекція: «Умови втручання в право на мирне володіння майном»</a></li>
+			<li>Переклад рішення.
 				<ul>
-					<li><a href="./3/consorcium.html">«Промислово-фінансовий консорціум «Інвестиційно-металургійний союз» проти України»</a></li>
-					<li><a href="./3/consorcium-fakty.html">Факти. Обставини справи</a></li>
-					<li><a href="./3/consorcium-vidpovidne-zakonodavstvo.html">Відповідне національне законодавство та практика</a></li>
-					<li><a href="./3/consorcium-vidpovidne-pravo.html">Право</a></li>
+					<li><a href="./4/lazoriva.html">«Лазоріва проти України»</a></li>
+					<li><a href="./4/lazoriva-fakty.html">Факти. Обставини справи</a></li>
+					<li><a href="./4/lazoriva-vidpovidne-zakonodavstvo.html">Відповідне національне законодавство та практика</a></li>
+					<li><a href="./4/lazoriva-vidpovidne-pravo.html">Право</a></li>
 				</ul>
 			</li>
-		-->
 		</ul>
     </div>
 </div>

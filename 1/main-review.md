@@ -228,3 +228,148 @@
 1. **Олександр Волков проти України** [(Oleksandr Volkov v. Ukraine)](http://hudoc.echr.coe.int/eng?i=001-115871) від 06.02.2018, заява № 21722/11.
 <hr/> 
 
+
+# Інтерактивний журнал «Європейський механізм захисту прав людини»
+
+<div>
+  <!-- Nav tabs -->
+  <ul class="nav nav-tabs" role="tablist">
+    <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab">Випуск №1</a></li>
+    <li role="presentation"><a href="#menu2" aria-controls="menu2" role="tab" data-toggle="tab">Випуск №2</a></li>
+	<li role="presentation"><a href="#menu3" aria-controls="menu2" role="tab" data-toggle="tab">Випуск №3</a></li>
+	<li role="presentation"><a href="#menu4_" aria-controls="menu2" role="tab" data-toggle="tab">Випуск №4</a>
+  </ul>
+  <!-- Tab panes -->
+  <div class="tab-content">
+    <div role="tabpanel" class="tab-pane active" id="home"><h3>Випуск №1</h3>
+		<ul type="disc">
+			<li><a href="../1/main-review.html">Огляд рішень щодо України, які були постановлені з початку року</a></li>
+			<li><a href="../1/others-countries.html">Рішення щодо інших держав</a></li>
+			<li style="list-style-type: none; margin-left: -20px;"><img src="../img/video-solid.svg" height="15px;" style="margin-right: 4px;"><a href="../1/zakonnist.html" style="font-weight: 600; text-decoration: underline;">Відеолекція: «Принцип законності»</a></li>
+			<li><a href="../1/pereklady.html">Переклад рішень</a>
+				<ul>
+					<li><a href="../1/navalnyi.html">«Навальний та Офіцеров проти Росії»</a>
+						<ul>
+							<li><a href="../1/navalnyi-fakty.html">Факти. Обставини справи</a></li>
+							<li><a href="../1/navalnyi-vidpovidne-zakonodavstvo.html">Факти. Відповідне національне законодавство та практика</a></li>
+							<li><a href="../1/navalnyi-pravo.html">Право</a></li>
+							<li><a href="../1/navalnyi-porushennya.html">Порушення</a></li>
+							<li><a href="../1/navalnyi-na-cyh-pidstavah.html">На цих підставах Суд:</a></li>
+							<li><a href="../1/navalnyi-okrema-dumka.html">Спільна окрема думка часткової незгоди суддів Ніколау, Келлера та Дєдова</a></li>
+						</ul>
+					</li>
+					<li><a href="../1/zubac.html">«Zubac проти Хорватії»</a>
+						<ul>
+							<li><a href="../1/zubac-fakty.html">Факти</a></li>
+							<li><a href="../1/zubac-vidpovidne-zakonodavstvo.html">Факти. Відповідне національне законодавство та практика</a></li>
+							<li><a href="../1/zubac-pravo.html">Право</a></li>
+						</ul>
+					</li>
+					<li><a href="../1/vytyag.html">Переклад витягу з рішення Конституційного Суду Республіки Литва</a></li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+	<div role="tabpanel" class="tab-pane" id="menu2"><h3>Випуск №2</h3>
+		<ul type="disc">
+			<li><a href="../2/main-review.html">Огляд рішень щодо України, які були постановлені з початку року</a></li>
+			<li><a href="../2/others-countries.html">Рішення щодо інших держав</a></li>
+			<li style="list-style-type: none; margin-left: -20px;"><img src="../img/video-solid.svg" height="15px;" style="margin-right: 4px;"><a href="../2/legitymna-meta.html" style="font-weight: 600; text-decoration: underline;">Відеолекція: «Легітимна мета»</a></li>
+			<li style="list-style-type: none; margin-left: -20px;"><img src="../img/video-solid.svg" height="15px;" style="margin-right: 4px;"><a href="../2/neobhidnist-u-demokratychnomu-susnilstvi.html" style="font-weight: 600; text-decoration: underline;">Відеолекція: «Необхідність у демократичному суспільстві»</a></li>
+			<li><a href="../2/pereklady.html">Переклад рішень</a>
+				<ul>
+					<li><a href="../2/fernandes.html">«Lopes de Sousa Fernandes проти Португалії»</a>
+						<ul>
+							<li><a href="../2/fernandes-fakty.html">Факти. Обставини справи</a></li>
+							<li><a href="../2/fernandes-vidpovidne-zakonodavstvo.html">Факти. Відповідне національне законодавство та практика</a></li>
+							<li><a href="../2/fernandes-pravo.html">Право</a></li>
+							<li><a href="../2/fernandes-na-cyh-pidstavah.html">На цих підставах Суд:</a></li>
+						</ul>
+					</li>
+					<li><a href="../2/surikov.html">«Суріков проти України»</a>
+						<ul>
+							<li><a href="../2/surikov-fakty.html">Факти</a></li>
+							<li><a href="../2/surikov-vidpovidne-zakonodavstvo.html">Факти. Відповідне національне законодавство та практика</a></li>
+							<li><a href="../2/surikov-pravo.html">Право</a></li>
+						</ul>
+					</li>
+					<li><a href="../2/holodov-uhvala.html">«Холодов проти України»</a></li>
+					<li><a href="../2/germany-court.html">Переклад витягу з рішення Конституційного суду Німеччини</a></li>
+					<li><a href="../2/vytyag_Lytva.html">Переклад витягу з рішення Литовського КС (щодо прогалин в законі)</a></li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+	<div role="tabpanel" class="tab-pane" id="menu3"><h3>Випуск №3</h3>
+		<ul type="disc">
+			<li><a href="../3/main-review.html">Огляд рішень щодо України, які були постановлені з початку року</a></li>
+			<li><a href="../3/others-countries.html">Рішення щодо інших держав</li>
+			<li style="list-style-type: none; margin-left: -20px;"><img src="../img/video-solid.svg" height="15px;" style="margin-right: 4px;"><a href="../3/maino.html" style="font-weight: 600; text-decoration: underline;">Відеолекція: «Право на мирне володіння майном»</a></li>
+			<li><a href="(../3/posibnyk.html)">Посібник. Вступ</a>
+				<ul>
+					<li><a href="(../3/posibnyk-pryncyp.html)">I. Принцип територіальності та виключення з нього</a></li>
+					<li><a href="(../3/posibnyk-delegeta.html)">II. Делегування повноважень держави або спільне здійснення таких повноважень разом із іншою державою</a></li>
+					<li><a href="(../3/posibnyk-casses.html)">III. Список використаних рішень</a></li>
+				</ul>
+			</li>
+			<li>Переклад рішення.	
+				<ul>
+					<li><a href="../3/consorcium.html">«Промислово-фінансовий консорціум «Інвестиційно-металургійний союз» проти України»</a></li>
+					<li><a href="../3/consorcium-fakty.html">Факти. Обставини справи</a></li>
+					<li><a href="../3/consorcium-vidpovidne-zakonodavstvo.html">Відповідне національне законодавство та практика</a></li>
+					<li><a href="../3/consorcium-vidpovidne-pravo.html">Право</a></li>
+				</ul>
+			</li>
+		</ul>
+    </div>
+	<div role="tabpanel" class="tab-pane" id="menu4_"><h3>Випуск №4</h3>
+		<ul type="disc">
+			<li><a href="./4/main-review.html">Огляд рішень щодо України, які були постановлені з початку року</a></li>
+			<li><a href="./4/others-countries.html">Рішення щодо інших держав</li>
+			<li style="list-style-type: none; margin-left: -20px;"><img src="./img/video-solid.svg" height="15px;" style="margin-right: 4px;"><a href="./4/umovy-maino.html" style="font-weight: 600; text-decoration: underline;">Відеолекція: «Умови втручання в право на мирне володіння майном»</a></li>
+			<li>Переклад рішення.
+				<ul>
+					<li><a href="./4/lazoriva.html">«Лазоріва проти України»</a></li>
+					<li><a href="./4/lazoriva-fakty.html">Факти. Обставини справи</a></li>
+					<li><a href="./4/lazoriva-vidpovidne-zakonodavstvo.html">Відповідне національне законодавство та практика</a></li>
+					<li><a href="./4/lazoriva-vidpovidne-pravo.html">Право</a></li>
+				</ul>
+			</li>
+		</ul>
+    </div>
+</div>
+
+---
+
+<h3>Заповніть анкету та слідкуйте за новинами журналу!</h3>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd-NG9Vm4X7aNHEiZaH7rCazcCclnpoJCWWOVgJOBYPY6WXNw/viewform?embedded=true" width="100%" height="420px" frameborder="0" marginheight="0" marginwidth="0">Завантаження...</iframe>
+
+<p><br/></p>
+
+<h3 id="online-courses">Безкоштовні онлайн-курси:</h3>
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+      <div class="card">
+        <img src="../img/hr-course1.jpg" alt="Human Rights basic" style="width:100%">
+        <div class="card-container">
+          <h5><b>Європейський механізм захисту прав людини. Частина 1</b></h5> 
+          <p style="font-weight: 400; font-size: 14px;">Курс знайомить із темою захисту прав людини крізь призму основних положень Конвенції про захист прав людини та основоположних свобод (Конвенції) та практики Європейського суду з прав людини (ЄСПЛ). Для широкого кола слухачів.</p> 
+          <a class="btn btn-primary" href="https://courses.ed-era.com/courses/course-v1:EdEra+HR101+hr101/about" role="button">Реєстрація</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-4">
+      <div class="card">
+        <img src="../img/hr-course2.jpg" alt="Human Rights advanced" style="width:100%">
+        <div class="card-container">
+          <h5><b>Європейський механізм захисту прав людини. Частина 2</b></h5> 
+          <p style="font-weight: 400; font-size: 14px;">Продовження курсу «Європейський механізм захисту прав людини». Для тих, хто прагне поглибити отримані знання й навчитися аналізувати практику Суду відповідно до статей Конвенції.</p> 
+          <a class="btn btn-primary" href="https://courses.ed-era.com/courses/course-v1:EdEra+HR201+hr201/about" role="button">Реєстрація</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<p><br/></p>

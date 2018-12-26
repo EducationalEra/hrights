@@ -321,6 +321,7 @@
 4. **Поховенко проти України** [(Pokhodenko проти України)](http://hudoc.echr.coe.int/eng?i=001-186656) від 04.09.2018, заява № 19964/13 &ndash; заявник не має наміру далі підтримувати свою заяву
 
 
+
 # Інтерактивний журнал «Європейський механізм захисту прав людини»
 
 <div>
@@ -329,6 +330,7 @@
     <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab">Випуск №1</a></li>
     <li role="presentation"><a href="#menu2" aria-controls="menu2" role="tab" data-toggle="tab">Випуск №2</a></li>
 	<li role="presentation"><a href="#menu3" aria-controls="menu2" role="tab" data-toggle="tab">Випуск №3</a></li>
+	<li role="presentation"><a href="#menu4_" aria-controls="menu2" role="tab" data-toggle="tab">Випуск №4</a>
   </ul>
   <!-- Tab panes -->
   <div class="tab-content">
@@ -395,7 +397,7 @@
 		<ul type="disc">
 			<li><a href="../3/main-review.html">Огляд рішень щодо України, які були постановлені з початку року</a></li>
 			<li><a href="../3/others-countries.html">Рішення щодо інших держав</li>
-			<li style="list-style-type: none; margin-left: -20px;"><img src="../img/video-solid.svg" height="15px;" style="margin-right: 4px;"><a href="../3/maino.html">Відеолекція: «Право на мирне володіння майном»</a></li>
+			<li style="list-style-type: none; margin-left: -20px;"><img src="../img/video-solid.svg" height="15px;" style="margin-right: 4px;"><a href="../3/maino.html" style="font-weight: 600; text-decoration: underline;">Відеолекція: «Право на мирне володіння майном»</a></li>
 			<li><a href="(../3/posibnyk.html)">Посібник. Вступ</a>
 				<ul>
 					<li><a href="(../3/posibnyk-pryncyp.html)">I. Принцип територіальності та виключення з нього</a></li>
@@ -409,6 +411,21 @@
 					<li><a href="../3/consorcium-fakty.html">Факти. Обставини справи</a></li>
 					<li><a href="../3/consorcium-vidpovidne-zakonodavstvo.html">Відповідне національне законодавство та практика</a></li>
 					<li><a href="../3/consorcium-vidpovidne-pravo.html">Право</a></li>
+				</ul>
+			</li>
+		</ul>
+    </div>
+	<div role="tabpanel" class="tab-pane" id="menu4_"><h3>Випуск №4</h3>
+		<ul type="disc">
+			<li><a href="./4/main-review.html">Огляд рішень щодо України, які були постановлені з початку року</a></li>
+			<li><a href="./4/others-countries.html">Рішення щодо інших держав</li>
+			<li style="list-style-type: none; margin-left: -20px;"><img src="./img/video-solid.svg" height="15px;" style="margin-right: 4px;"><a href="./4/umovy-maino.html" style="font-weight: 600; text-decoration: underline;">Відеолекція: «Умови втручання в право на мирне володіння майном»</a></li>
+			<li>Переклад рішення.
+				<ul>
+					<li><a href="./4/lazoriva.html">«Лазоріва проти України»</a></li>
+					<li><a href="./4/lazoriva-fakty.html">Факти. Обставини справи</a></li>
+					<li><a href="./4/lazoriva-vidpovidne-zakonodavstvo.html">Відповідне національне законодавство та практика</a></li>
+					<li><a href="./4/lazoriva-vidpovidne-pravo.html">Право</a></li>
 				</ul>
 			</li>
 		</ul>
