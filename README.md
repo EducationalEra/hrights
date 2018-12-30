@@ -99,10 +99,19 @@
 			<li style="list-style-type: none; margin-left: -20px;"><img src="./img/video-solid.svg" height="15px;" style="margin-right: 4px;"><a href="./4/umovy-maino.html" style="font-weight: 600; text-decoration: underline;">Відеолекція: «Умови втручання в право на мирне володіння майном»</a></li>
 			<li>Переклад рішення.
 				<ul>
-					<li><a href="./4/lazoriva.html">«Лазоріва проти України»</a></li>
-					<li><a href="./4/lazoriva-fakty.html">Факти. Обставини справи</a></li>
-					<li><a href="./4/lazoriva-vidpovidne-zakonodavstvo.html">Відповідне національне законодавство та практика</a></li>
-					<li><a href="./4/lazoriva-vidpovidne-pravo.html">Право</a></li>
+					<li>
+						<ul>
+							<li><a href="./4/lazoriva.html">«Лазоріва проти України»</a></li>
+							<li><a href="./4/lazoriva-fakty.html">Факти. Обставини справи</a></li>
+							<li><a href="./4/lazoriva-vidpovidne-zakonodavstvo.html">Відповідне національне законодавство та практика</a></li>
+							<li><a href="./4/lazoriva-vidpovidne-pravo.html">Право</a></li>
+						</ul>
+					</li>
+					<li><a href="./4/Konyv.html">«Könyv-Tár KFT та інші проти Угорщини»</a>
+					</li>
+					<li><a href="./4/GIEM.html">«G.I.E.M. S.r.l. та інші проти Італії»</a></li>
+					<li><a href="./4/Krajnc.html">«Krajnc проти Словенії»</a></li>
+					<li><a href="./4/Gyrlyan.html">«Gyrlyan проти Росії»</a></li>
 				</ul>
 			</li>
 		</ul>

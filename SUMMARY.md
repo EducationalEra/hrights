@@ -60,4 +60,8 @@
 	* [Факти](4/lazoriva-fakty.md)
 	* [Факти. Відповідне національне законодавство та практика](4/lazoriva-vidpovidne-zakonodavstvo.md)
 	* [Право](4/lazoriva-pravo.md)
+* [«Könyv-Tár KFT та інші проти Угорщини»](4/Konyv.md)
+* [«G.I.E.M. S.r.l. та інші проти Італії»](4/GIEM.md)
+* [«Krajnc проти Словенії»](4/Krajnc.md)
+* [«Gyrlyan проти Росії»](4/Gyrlyan.md)
 * [Міжнародний форум з практики Європейського суду з прав людини](/forums.md)
