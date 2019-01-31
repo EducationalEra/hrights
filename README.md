@@ -8,6 +8,7 @@
     <li role="presentation"><a href="#menu3" aria-controls="menu2" role="tab" data-toggle="tab">Випуск №3</a></li>
 	<li role="presentation"><a href="#menu4_" aria-controls="menu2" role="tab" data-toggle="tab">Випуск №4</a>
 	<li role="presentation"><a href="#menu4" aria-controls="menu2" role="tab" data-toggle="tab">Міжнародні форуми ЄСПЛ</a></li>
+	<li role="presentation"><a href="#menu5" aria-controls="menu2" role="tab" data-toggle="tab">Практика ЄСПЛ проти України 2018</a></li>
   </ul>
   <!-- Tab panes -->
   <div class="tab-content">
@@ -122,6 +123,11 @@
 			<li><a href="https://courses.ed-era.com/asset-v1:EdEra+HR101+hr101+type@asset+block@IV_forum.pdf" target="_blank">Посібник з відеолекціями «Міжнародний Форум IV»»</a></li>
 			<li><a href="https://courses.ed-era.com/asset-v1:EdEra+HR101+hr101+type@asset+block@V-forum.pdf" target="_blank">Посібник з відеолекціями «Міжнародний Форум V»»</a></li>
 			<li><a href="https://courses.ed-era.com/asset-v1:EdEra+HR201+hr201+type@asset+block@VI-forum.pdf" target="_blank">Посібник з відеолекціями «Міжнародний Форум VI»»</a></li>
+		</ul>			
+    </div>
+	<div role="tabpanel" class="tab-pane" id="menu5"><h3>Практика ЄСПЛ проти України 2018.</h3>
+		<ul type="disc">
+			<li><a href="./5/2018_part1.html" target="_blank">Практика ЄСПЛ проти України 2018. Частина 1</a></li>
 		</ul>			
     </div>
 </div>
