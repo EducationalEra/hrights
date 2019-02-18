@@ -128,6 +128,7 @@
 	<div role="tabpanel" class="tab-pane" id="menu5"><h3>Практика ЄСПЛ проти України 2018.</h3>
 		<ul type="disc">
 			<li><a href="./5/2018_part1.html" target="_blank">Практика ЄСПЛ проти України 2018. Частина 1</a></li>
+			<li><a href="./5/2018_part2.html" target="_blank">Практика ЄСПЛ проти України 2018. Частина 2</a></li>
 		</ul>			
     </div>
 </div>
