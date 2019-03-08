@@ -6,3 +6,4 @@
 * [Посібник з відеолекціями «Міжнародний Форум IV»](https://courses.ed-era.com/asset-v1:EdEra+HR101+hr101+type@asset+block@IV_forum.pdf)
 * [Посібник з відеолекціями «Міжнародний Форум V»](https://courses.ed-era.com/asset-v1:EdEra+HR101+hr101+type@asset+block@V-forum.pdf)
 * [Посібник з відеолекціями «Міжнародний Форум VI»](https://courses.ed-era.com/asset-v1:EdEra+HR201+hr201+type@asset+block@VI-forum.pdf)
+* [Посібник з відеолекціями «Міжнародний Форум VII»](https://courses.ed-era.com/asset-v1:EdEra+HR101+hr101+type@asset+block@forum_VII.pdf)

@@ -120,9 +120,10 @@
 	<div role="tabpanel" class="tab-pane" id="menu4"><h3>Міжнародні форуми ЄСПЛ</h3>
 		<ul type="disc">
 			<li><a href="https://courses.ed-era.com/asset-v1:EdEra+HR101+hr101+type@asset+block@III_forum.pdf" target="_blank">Посібник з відеолекціями «Міжнародний Форум III»</a></li>
-			<li><a href="https://courses.ed-era.com/asset-v1:EdEra+HR101+hr101+type@asset+block@IV_forum.pdf" target="_blank">Посібник з відеолекціями «Міжнародний Форум IV»»</a></li>
-			<li><a href="https://courses.ed-era.com/asset-v1:EdEra+HR101+hr101+type@asset+block@V-forum.pdf" target="_blank">Посібник з відеолекціями «Міжнародний Форум V»»</a></li>
-			<li><a href="https://courses.ed-era.com/asset-v1:EdEra+HR201+hr201+type@asset+block@VI-forum.pdf" target="_blank">Посібник з відеолекціями «Міжнародний Форум VI»»</a></li>
+			<li><a href="https://courses.ed-era.com/asset-v1:EdEra+HR101+hr101+type@asset+block@IV_forum.pdf" target="_blank">Посібник з відеолекціями «Міжнародний Форум IV»</a></li>
+			<li><a href="https://courses.ed-era.com/asset-v1:EdEra+HR101+hr101+type@asset+block@V-forum.pdf" target="_blank">Посібник з відеолекціями «Міжнародний Форум V»</a></li>
+			<li><a href="https://courses.ed-era.com/asset-v1:EdEra+HR201+hr201+type@asset+block@VI-forum.pdf" target="_blank">Посібник з відеолекціями «Міжнародний Форум VI»</a></li>
+			<li><a href="https://courses.ed-era.com/asset-v1:EdEra+HR101+hr101+type@asset+block@forum_VII.pdf" target="_blank">Посібник з відеолекціями «Міжнародний Форум VII»</a></li>
 		</ul>			
     </div>
 	<div role="tabpanel" class="tab-pane" id="menu5"><h3>Практика ЄСПЛ проти України 2018.</h3>
