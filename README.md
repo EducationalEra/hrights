@@ -130,6 +130,7 @@
 		<ul type="disc">
 			<li><a href="./5/2018_part1.html" target="_blank">Практика ЄСПЛ проти України 2018. Частина 1</a></li>
 			<li><a href="./5/2018_part2.html" target="_blank">Практика ЄСПЛ проти України 2018. Частина 2</a></li>
+			<li><a href="./5/2018_part3.html" target="_blank">Практика ЄСПЛ проти України 2018. Частина 3</a></li>
 		</ul>			
     </div>
 </div>
