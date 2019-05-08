@@ -1,8 +1,9 @@
 #Що таке принцип законності і як його застосовувати?
-<div class="embed-responsive embed-responsive-16by9">
+{% youtube src="https://www.youtube.com/watch?v=8bUL_TLIvZk" %}{% endyoutube %}
+<!--<div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/8bUL_TLIvZk?rel=0" allowfullscreen></iframe>
 </div>
-
+-->
 Проаналізуйте абзац перший пункту 40 розділу VI в редакції Закону № 1789-VIII від 20.12.2016 [Бюджетному кодексу України](http://zakon5.rada.gov.ua/laws/show/2456-17/print1509867055307230)
 
 <blockquote>

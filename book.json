@@ -1,7 +1,7 @@
 {
     "gitbook": ">=3.0.0-pre.11",
     "title": "Відеожурнал ЄСПЛ",
-    "plugins": ["-search", "fontsettings", "-sharing", "addcssjs", "quiz", "disqus", "-comments", "gtm"],
+    "plugins": ["-search", "fontsettings", "-sharing", "addcssjs", "quiz", "youtube", "disqus", "-comments", "gtm"],
     "pluginsConfig": {
         "theme-default": {
             "showLevel": true
