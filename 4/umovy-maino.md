@@ -1,9 +1,11 @@
 # Умови втручання в право на мирне володіння майном
 ## Стаття 1 Першого протоколу
+{% youtube src="https://www.youtube.com/watch?v=ljiiAQCltzY" %}{% endyoutube %}
+<!--
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ljiiAQCltzY?rel=0" allowfullscreen></iframe>
 </div>
-
+-->
 ### Список рекомендованих рішень:
 * [«Seryavin та інші проти України», заява № 4909/04, рішення від 10.02.2010](pdf/Seryavin_v._Ukraine.pdf)
 * [«Frizen проти Росії», заява № 58254/00, рішення від 24.03.2005](pdf/Frizen.pdf)

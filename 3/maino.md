@@ -1,9 +1,11 @@
 # Право на мирне володіння майном
 ## Стаття 1 Першого протоколу
-<div class="embed-responsive embed-responsive-16by9">
+{% youtube src="https://www.youtube.com/watch?v=x8XPfIsKgaU" %}{% endyoutube %}
+
+<!--<div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/x8XPfIsKgaU?rel=0" allowfullscreen></iframe>
 </div>
-
+-->
 ### Список рекомендованих рішень:
 * [«Валентина Ніканорівна Великода проти України» заява № 43331/12, рішення від 3.07.2012](pdf/Velykoda_v._Ukraine.pdf)
 * [Будченко проти України» заява № 38677/06, рішення від 24.04.2014](pdf/Budchenko_v._Ukraine.pdf)
