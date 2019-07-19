@@ -1,7 +1,5 @@
 # Table of contents
 
-* [Introduction](README.md)
-
 ## Випуск №1
 
 * [Огляд рішень щодо України, які були постановлені з початку року](vipusk-1/main-review.md)
@@ -73,8 +71,8 @@
 
 * [Огляд рішень щодо України, які були постановлені за період 18.12.2018 — 20.06.2019](vipusk-5/main-review.md)
 * [Рішення щодо інших держав](vipusk-5/rishennya-shodo-inshikh-derzhav.md)
-* [Відеолекція "Право на освіту. Загальні положення"](vipusk-5/videolekciya-pravo-na-osvitu.-zagalni-polozhennya.md)
-* [Відеолекція "Право на освіту. Практика Суду"](vipusk-5/videolekciya-pravo-na-osvitu.-praktika-sudu.md)
+* [Відеолекція «Право на освіту. Загальні положення»](vipusk-5/videolekciya-pravo-na-osvitu.-zagalni-polozhennya.md)
+* [Відеолекція «Право на освіту. Практика Суду»](vipusk-5/videolekciya-pravo-na-osvitu.-praktika-sudu.md)
 * [Переклад рішень](vipusk-5/pereklad-rishen/README.md)
   * [«Хіменес і Хіменес Меріно проти Іспанії»](vipusk-5/pereklad-rishen/1/README.md)
     * [Факти](vipusk-5/pereklad-rishen/1/fakti.md)
