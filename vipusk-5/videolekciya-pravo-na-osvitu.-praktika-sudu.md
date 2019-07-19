@@ -1,6 +1,6 @@
-# Відеолекція "Право на освіту. Практика Суду"
+# Відеолекція «Право на освіту. Практика Суду»
 
-{% embed url="https://www.youtube.com/watch?v=_9y8_Me5iTg" caption="" %}
+{% embed url="https://www.youtube.com/watch?v=\_9y8\_Me5iTg" caption="" %}
 
 **Список рішень, використаних у відео:**
 
@@ -10,7 +10,6 @@
 * [Timishev проти Росії ](https://hudoc.echr.coe.int/eng#%7B%22fulltext%22:[%22Timishev%22],%22documentcollectionid2%22:[%22GRANDCHAMBER%22,%22CHAMBER%22]%7D)
 * [Catan та інші проти Республіки Молдови та Росії](https://hudoc.echr.coe.int/eng#%7B%22fulltext%22:[%228252/05%22],%22itemid%22:[%22001-126861%22]%7D)
 
-  
 Додатково:  
 [Довідник із застосування статті 2 Протоколу № 1 до Європейської конвенції з прав людини](https://www.echr.coe.int/Documents/Guide_Art_2_Protocol_1_UKR.pdf)
 
