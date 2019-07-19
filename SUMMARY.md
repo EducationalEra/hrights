@@ -6,7 +6,7 @@
 
 * [Огляд рішень щодо України, які були постановлені з початку року](vipusk-1/main-review.md)
 * [Рішення щодо інших держав](vipusk-1/others-countries.md)
-* [Відеолекція: «Принцип законності»](vipusk-1/zakonnist.md)
+* [>> Відео «Принцип законності»](vipusk-1/zakonnist.md)
 * [Переклад рішень](vipusk-1/pereklady/README.md)
   * [«Навальний та Офіцеров проти Росії»](vipusk-1/pereklady/navalnyi/README.md)
     * [Факти. Обставини справи](vipusk-1/pereklady/navalnyi/navalnyi-fakty.md)
@@ -25,8 +25,8 @@
 
 * [Огляд рішень щодо України, які були постановлені за період 17.05.2018 – 24.07.2018](vipusk-2/main-review.md)
 * [Рішення щодо інших держав](vipusk-2/others-countries.md)
-* [Відеолекція: «Легітимна мета»](vipusk-2/legitymna-meta.md)
-* [Відеолекція: «Необхідність у демократичному суспільстві»](vipusk-2/neobhidnist-u-demokratychnomu-susnilstvi.md)
+* [>> Відео «Легітимна мета»](vipusk-2/legitymna-meta.md)
+* [>> Відео «Необхідність у демократичному суспільстві»](vipusk-2/neobhidnist-u-demokratychnomu-susnilstvi.md)
 * [Переклад рішень](vipusk-2/pereklady/README.md)
   * [«Lopes de Sousa Fernandes проти Португалії»](vipusk-2/pereklady/fernandes/README.md)
     * [Факти. Обставини справи](vipusk-2/pereklady/fernandes/fernandes-fakty.md)
@@ -45,7 +45,7 @@
 
 * [Огляд рішень щодо України, які були постановлені за період 25.07.2018 — 17.10.2018](vipusk-3/main-review.md)
 * [Рішення щодо інших держав](vipusk-3/others-countries.md)
-* [Відеолекція: Право на мирне володіння майном»](vipusk-3/maino.md)
+* [>> Відео «Право на мирне володіння майном»](vipusk-3/maino.md)
 * [Посібник. Вступ](vipusk-3/posibnyk/README.md)
   * [I. Принцип територіальності та виключення з нього](vipusk-3/posibnyk/posibnyk-pryncyp.md)
   * [II. Делегування повноважень держави або спільне здійснення таких повноважень разом із іншою державою](vipusk-3/posibnyk/posibnyk-delegate.md)
@@ -59,7 +59,7 @@
 
 * [Огляд рішень щодо України, які були постановлені за період 25.10.2018 – 06.12.2018](vipusk-4/main-review.md)
 * [Рішення щодо інших держав](vipusk-4/others-countries.md)
-* [Відеолекція: «Умови втручання в право на мирне володіння майном»](vipusk-4/umovy-maino.md)
+* [>> Відео «Умови втручання в право на мирне володіння майном»](vipusk-4/umovy-maino.md)
 * [«Лазоріва проти України»](vipusk-4/lazoriva/README.md)
   * [Факти](vipusk-4/lazoriva/lazoriva-fakty.md)
   * [Факти. Відповідне національне законодавство та практика](vipusk-4/lazoriva/lazoriva-vidpovidne-zakonodavstvo.md)
@@ -73,8 +73,8 @@
 
 * [Огляд рішень щодо України, які були постановлені за період 18.12.2018 — 20.06.2019](vipusk-5/main-review.md)
 * [Рішення щодо інших держав](vipusk-5/rishennya-shodo-inshikh-derzhav.md)
-* [Відеолекція «Право на освіту. Загальні положення»](vipusk-5/videolekciya-pravo-na-osvitu.-zagalni-polozhennya.md)
-* [Відеолекція «Право на освіту. Практика Суду»](vipusk-5/videolekciya-pravo-na-osvitu.-praktika-sudu.md)
+* [>> Відео «Право на освіту. Загальні положення»](vipusk-5/videolekciya-pravo-na-osvitu.-zagalni-polozhennya.md)
+* [>> Відео «Право на освіту. Практика Суду»](vipusk-5/videolekciya-pravo-na-osvitu.-praktika-sudu.md)
 * [Переклад рішень](vipusk-5/pereklad-rishen/README.md)
   * [«Хіменес і Хіменес Меріно проти Іспанії»](vipusk-5/pereklad-rishen/1/README.md)
     * [Факти](vipusk-5/pereklad-rishen/1/fakti.md)
