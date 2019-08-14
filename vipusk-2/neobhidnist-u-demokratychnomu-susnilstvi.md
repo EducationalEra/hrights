@@ -1,5 +1,7 @@
 # &gt;&gt; Відео «Необхідність у демократичному суспільстві»
 
+{% embed url="https://www.youtube.com/watch?v=v3hmtqhG-Co" caption="" %}
+
 ## Список рішень використаних у відео:
 
 * [«Eweida та інші проти Сполученого Королівства» заяви №№ 48420/10, 59842/10, 51671/10 та 36516/10, рішення від 15.01.2013](https://courses.ed-era.com/assets/courseware/3999b647055582b6f6046f392f7dd475/asset-v1:EdEra+HR201+hr201+type@asset+block/8-Eweida.pdf)
