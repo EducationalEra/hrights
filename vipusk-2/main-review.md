@@ -184,99 +184,21 @@
 4. **Силевич проти України** [\(Sylevych v. Ukraine\)](http://hudoc.echr.coe.int/eng?i=001-184157) від 24.05.2018, заява № 5943/10 – заявник не має наміру далі підтримувати свою заяву;
 5. **Солдатенкови проти України** [\(Soldatenkovy v. Ukraine\)](http://hudoc.echr.coe.int/eng?i=001-185143)  від 24.05.2018, заява № 59815/16;
 
-   Скарга заявника щодо невиконання національних судових рішень вилучена з реєстру справ Суду і передана до Комітету Міністрів Ради Європи для виконання в рамках процедури, передбаченої рішенням “Бурмич та інші проти України”.
+   > Скарга заявника щодо невиконання національних судових рішень вилучена з реєстру справ Суду і передана до Комітету Міністрів Ради Європи для виконання в рамках процедури, передбаченої рішенням “Бурмич та інші проти України”.
 
-   &lt;/blockquote&gt;
+   > Скарга заявника за п. 1 ст. 6 та ст. 13 Конвенції щодо надмірної тривалості цивільного провадження та відсутністю у національному законодавстві ефективного засобу юридичного захисту визнана неприйнятною як явно необґрунтована, оскільки за обставин справи тривалість відповідного провадження \(5 років в судах трьох інстанцій\) не є надмірною.
 
-   Скарга заявника за п. 1 ст. 6 та ст. 13 Конвенції щодо надмірної тривалості цивільного провадження та відсутністю у національному законодавстві ефективного засобу юридичного захисту визнана неприйнятною як явно необґрунтована, оскільки за обставин справи тривалість відповідного провадження \(5 років в судах трьох інстанцій\) не є надмірною.
+{% tabs %}
+{% tab title="Європейський механіз захисту прав людини. Частина 1" %}
+![&#x404;&#x432;&#x440;&#x43E;&#x43F;&#x435;&#x439;&#x441;&#x44C;&#x43A;&#x438;&#x439; &#x43C;&#x435;&#x445;&#x430;&#x43D;&#x456;&#x437;&#x43C; &#x437;&#x430;&#x445;&#x438;&#x441;&#x442;&#x443; &#x43F;&#x440;&#x430;&#x432; &#x43B;&#x44E;&#x434;&#x438;&#x43D;&#x438;. &#x427;&#x430;&#x441;&#x442;&#x438;&#x43D;&#x430; 1](../.gitbook/assets/hr-course1%20%281%29.jpg)
 
-   &lt;/blockquote&gt;
+Курс знайомить із темою захисту прав людини крізь призму основних положень Конвенції про захист прав людини та основоположних свобод \(Конвенції\) та практики Європейського суду з прав людини \(ЄСПЛ\). Для широкого кола слухачів. [Реєстрація](https://courses.ed-era.com/courses/course-v1:EdEra+HR101+hr101/about)
+{% endtab %}
 
-## Інтерактивний журнал «Європейський механізм захисту прав людини»
-
-* [Випуск №1](main-review.md#home)
-* [Випуск №2](main-review.md#menu2)
-* [Випуск №3](main-review.md#menu3)
-* [Випуск №4](main-review.md#menu4_)
-
-#### Випуск №1
-
-* [Огляд рішень щодо України, які були постановлені з початку року](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/1/main-review.html)
-* [Рішення щодо інших держав](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/1/others-countries.html)
-* ![](../.gitbook/assets/video-solid.svg)[Відеолекція: «Принцип законності»](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/1/zakonnist.html)
-* [Переклад рішень](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/1/pereklady.html)
-  * [«Навальний та Офіцеров проти Росії»](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/1/navalnyi.html)
-    * [Факти. Обставини справи](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/1/navalnyi-fakty.html)
-    * [Факти. Відповідне національне законодавство та практика](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/1/navalnyi-vidpovidne-zakonodavstvo.html)
-    * [Право](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/1/navalnyi-pravo.html)
-    * [Порушення](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/1/navalnyi-porushennya.html)
-    * [На цих підставах Суд:](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/1/navalnyi-na-cyh-pidstavah.html)
-    * [Спільна окрема думка часткової незгоди суддів Ніколау, Келлера та Дєдова](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/1/navalnyi-okrema-dumka.html)
-  * [«Zubac проти Хорватії»](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/1/zubac.html)
-    * [Факти](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/1/zubac-fakty.html)
-    * [Факти. Відповідне національне законодавство та практика](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/1/zubac-vidpovidne-zakonodavstvo.html)
-    * [Право](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/1/zubac-pravo.html)
-  * [Переклад витягу з рішення Конституційного Суду Республіки Литва](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/1/vytyag.html)
-
-#### Випуск №2
-
-* [Огляд рішень щодо України, які були постановлені з початку року](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/2/main-review.html)
-* [Рішення щодо інших держав](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/2/others-countries.html)
-* ![](../.gitbook/assets/video-solid.svg)[Відеолекція: «Легітимна мета»](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/2/legitymna-meta.html)
-* ![](../.gitbook/assets/video-solid.svg)[Відеолекція: «Необхідність у демократичному суспільстві»](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/2/neobhidnist-u-demokratychnomu-susnilstvi.html)
-* [Переклад рішень](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/2/pereklady.html)
-  * [«Lopes de Sousa Fernandes проти Португалії»](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/2/fernandes.html)
-    * [Факти. Обставини справи](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/2/fernandes-fakty.html)
-    * [Факти. Відповідне національне законодавство та практика](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/2/fernandes-vidpovidne-zakonodavstvo.html)
-    * [Право](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/2/fernandes-pravo.html)
-    * [На цих підставах Суд:](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/2/fernandes-na-cyh-pidstavah.html)
-  * [«Суріков проти України»](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/2/surikov.html)
-    * [Факти](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/2/surikov-fakty.html)
-    * [Факти. Відповідне національне законодавство та практика](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/2/surikov-vidpovidne-zakonodavstvo.html)
-    * [Право](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/2/surikov-pravo.html)
-  * [«Холодов проти України»](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/2/holodov-uhvala.html)
-  * [Переклад витягу з рішення Конституційного суду Німеччини](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/2/germany-court.html)
-  * [Переклад витягу з рішення Литовського КС \(щодо прогалин в законі\)](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/2/vytyag_Lytva.html)
-
-#### Випуск №3
-
-* [Огляд рішень щодо України, які були постановлені з початку року](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/3/main-review.html)
-* [Рішення щодо інших держав](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/3/others-countries.html)
-* ![](../.gitbook/assets/video-solid.svg)[Відеолекція: «Право на мирне володіння майном»](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/3/maino.html)
-* [Посібник. Вступ](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/2/%28../3/posibnyk.html%29)
-  * [I. Принцип територіальності та виключення з нього](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/2/%28../3/posibnyk-pryncyp.html%29)
-  * [II. Делегування повноважень держави або спільне здійснення таких повноважень разом із іншою державою](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/2/%28../3/posibnyk-delegeta.html%29)
-  * [III. Список використаних рішень](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/2/%28../3/posibnyk-casses.html%29)
-* Переклад рішення.
-  * [«Промислово-фінансовий консорціум «Інвестиційно-металургійний союз» проти України»](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/3/consorcium.html)
-  * [Факти. Обставини справи](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/3/consorcium-fakty.html)
-  * [Відповідне національне законодавство та практика](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/3/consorcium-vidpovidne-zakonodavstvo.html)
-  * [Право](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/3/consorcium-vidpovidne-pravo.html)
-
-#### Випуск №4
-
-* [Огляд рішень щодо України, які були постановлені з початку року](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/2/4/main-review.html)
-* [Рішення щодо інших держав](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/2/4/others-countries.html)
-* ![](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/2/img/video-solid.svg)[Відеолекція: «Умови втручання в право на мирне володіння майном»](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/2/4/umovy-maino.html)
-* Переклад рішення.
-  * [«Лазоріва проти України»](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/2/4/lazoriva.html)
-  * [Факти. Обставини справи](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/2/4/lazoriva-fakty.html)
-  * [Відповідне національне законодавство та практика](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/2/4/lazoriva-vidpovidne-zakonodavstvo.html)
-  * [Право](https://github.com/EducationalEra/hrights/tree/074987dc9b7a25cbe07b11db60eef1e48a6109fb/2/4/lazoriva-vidpovidne-pravo.html)
-
-Заповніть анкету та слідкуйте за новинами журналу!
-
-Завантаження...
-
-Безкоштовні онлайн-курси:
-
-![Human Rights basic](../.gitbook/assets/hr-course1%20%281%29.jpg)
-
-**Європейський механізм захисту прав людини. Частина 1**
-
-Курс знайомить із темою захисту прав людини крізь призму основних положень Конвенції про захист прав людини та основоположних свобод \(Конвенції\) та практики Європейського суду з прав людини \(ЄСПЛ\). Для широкого кола слухачів. [Реєстрація](https://courses.ed-era.com/courses/course-v1:EdEra+HR101+hr101/about) ![Human Rights advanced](../.gitbook/assets/hr-course2.jpg)
-
-**Європейський механізм захисту прав людини. Частина 2**
+{% tab title="Європейський механіз захисту прав людини. Частина 2" %}
+![&#x404;&#x432;&#x440;&#x43E;&#x43F;&#x435;&#x439;&#x441;&#x44C;&#x43A;&#x438;&#x439; &#x43C;&#x435;&#x445;&#x430;&#x43D;&#x456;&#x437; &#x437;&#x430;&#x445;&#x438;&#x441;&#x442;&#x443; &#x43F;&#x440;&#x430;&#x432; &#x43B;&#x44E;&#x434;&#x438;&#x43D;&#x438;. &#x427;&#x430;&#x441;&#x442;&#x438;&#x43D;&#x430; 2](../.gitbook/assets/hr-course2%20%281%29.jpg)
 
 Продовження курсу «Європейський механізм захисту прав людини». Для тих, хто прагне поглибити отримані знання й навчитися аналізувати практику Суду відповідно до статей Конвенції. [Реєстрація](https://courses.ed-era.com/courses/course-v1:EdEra+HR201+hr201/about)
+{% endtab %}
+{% endtabs %}
 
